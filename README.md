@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=AED581&height=300&section=header&text=🙌WELCOME🙌&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffb88e&height=300&section=header&text=WELCOME!&fontSize=90&animation=scaleIn)
 
 ## 👋 Introduce 
 
@@ -28,8 +28,8 @@
 ## 🎢 Analysis 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hyunjo&layout=compact&theme=merko" />
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hyunjo&layout=compact&theme=slateorange" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange" />
 </div>
 
 ## 💬 Contact me with
