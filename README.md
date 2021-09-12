@@ -27,7 +27,10 @@
 
 ## 🎢 Analysis 
 
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=alsxmqkqh23)](https://solved.ac/alsxmqkqh23) 
+
 <div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hyunjo&layout=compact&theme=slateorange" />
 <img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange" />
 </div>
