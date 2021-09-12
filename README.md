@@ -32,7 +32,7 @@
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hyunjo&layout=compact&theme=slateorange" />
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange&hide=issues&count_private=true" />
 </div>
 
 ## 💬 Contact me with
