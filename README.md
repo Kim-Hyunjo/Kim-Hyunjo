@@ -27,7 +27,7 @@
 
 ## 🎢 Analysis 
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=alsxmqkqh23)](https://solved.ac/alsxmqkqh23) 
+![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=alsxmqkqh23)
 
 <div align="center">
   
