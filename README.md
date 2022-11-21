@@ -23,8 +23,7 @@
 
 ## 💬 Contact me with
   
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto://alsxmqkqh@gmail.com?subject=[Github])
-[![naver blog](https://img.shields.io/badge/Blog-3EAF0E?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/tulip23)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto://jibyo.hada@gmail.com?subject=[Github])
 
 
 
