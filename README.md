@@ -1,11 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffb88e&height=300&section=header&text=WELCOME&fontSize=90&animation=scaleIn)
-
-## 👋 Introduce 
-
-🌻 안녕하세요? 김현조입니다. <br>
-🤗 살면서 받아온 기회, 친절, 감사를 소중히 돌려주는 사람으로 매일 나아가고 있습니다.<br>
-🌱 스스로에 대한 믿음에 부응하는 사람이 되고자 합니다.
-
 ## 🌳 Skills
 
 <div align="center">
