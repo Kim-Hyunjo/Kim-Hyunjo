@@ -23,7 +23,7 @@
 
 ## 💬 Contact me with
   
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto://jibyo.hada@gmail.com?subject=[Github])
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jibyo.hada@gmail.com?subject=[Github])
 
 
 
