@@ -1,4 +1,16 @@
-## 🌳 Skills
+## History
+
+Bachelor of Software Convergence Engineering, Inha University (2018.03~2023.02)
+
+Naver Boostcamp Challenge(2021.07~2021.08)
+
+Naver Boostcamp Membership(2021.08~2021.12)
+
+Software Maestro (2022.04~2022.11)
+
+<br/>
+
+## Skills
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -12,7 +24,9 @@
 
 </div>
 
-## 🎢 Analysis 
+<br/>
+
+## Analysis 
 
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=alsxmqkqh23)
 
@@ -21,7 +35,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange&hide=issues&count_private=true" />
 </div>
 
-## 💬 Contact me with
+<br/>
+
+## Contact
   
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jibyo.hada@gmail.com?subject=[Github])
 
