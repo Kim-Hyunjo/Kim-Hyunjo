@@ -44,6 +44,7 @@ Software Maestro (2022.04~2022.11)
 ## Contact
   
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jibyo.hada@gmail.com?subject=[Github])
+[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/notifications/?filter=all?subject=[Github])
 
 
 
