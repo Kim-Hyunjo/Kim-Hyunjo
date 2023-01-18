@@ -35,8 +35,7 @@ Software Maestro (2022.04~2022.11)
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=alsxmqkqh23)
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Kim-Hyunjo&theme=slateorange&hide=issues&count_private=true" />
+ 
 </div>
 
 <br/>
