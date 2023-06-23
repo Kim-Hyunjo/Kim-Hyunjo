@@ -4,13 +4,15 @@
 
 ## History
 
-Bachelor of Software Convergence Engineering, Inha University (2018.03~2023.02)
-
-Naver Boostcamp Challenge(2021.07~2021.08)
-
-Naver Boostcamp Membership(2021.08~2021.12)
-
-Software Maestro (2022.04~2022.11)
+|기간|소속|내용|
+|---|---|---|
+|2023.07~|Tmax Fintech|프론트엔드 개발|
+|2023.05~2023.06|Game Duo|플레이어블 광고 개발|
+|2023.01~2023.02|N Tech Service|UI 개발|
+|2022.04~2022.11|Software Maestro|프론트엔드 개발|
+|2021.08~2021.12|Naver Boostcamp Membership|웹 풀스택 과정(JavaScript)|
+|2021.07~2021.08|Naver Boostcamp Challenge|웹 풀스택 과정(JavaScript)|
+|2018.03~2023.02|Inha University|Bachelor of Software Convergence Engineering|
 
 <br/>
 
